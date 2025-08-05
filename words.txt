@@ -1,0 +1,6 @@
+Animals:cat,dog,elephant,lion,tiger,giraffe,kangaroo,monkey,zebra
+Fruits:apple,banana,grape,mango,orange,watermelon,kiwi,peach,strawberry
+Countries:india,canada,brazil,japan,france,germany,china,australia,spain
+Professions:doctor,engineer,teacher,artist,scientist,lawyer,nurse,chef,actor
+Technology:computer,internet,software,hardware,robot,algorithm,network,coding,python
+Colors:red,blue,green,yellow,orange,purple,black,white,pink
